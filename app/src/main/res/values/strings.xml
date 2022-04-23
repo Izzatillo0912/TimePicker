@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Time Picker</string>
+    <string name="medium_view">2 - Medium view</string>
+    <string name="easy_view">1 - Easy view</string>
+</resources>
